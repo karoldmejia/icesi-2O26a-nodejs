@@ -1,5 +1,7 @@
 # Taller Individual: Node.js
 
+## holaaaaaaaaaaa
+
 ## Descripción
 
 Este taller tiene como objetivo reforzar los conocimientos adquiridos sobre Node.js. Durante el desarrollo del taller, trabajarás con un proyecto que contiene algunos errores que deberás identificar y corregir. Además, implementarás validaciones para los campos de entrada y agregarás nuevas funcionalidades relacionadas con el módulo de libros.
